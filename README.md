@@ -2,7 +2,7 @@
 My name Is Manik Singh
 Section OPS445 NBB
 
-Nice!
+
 <!--
 **msingh622/msingh622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
