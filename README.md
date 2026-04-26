@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name Is Manik Singh
-Section OPS445 NBB
 
 
 <!--
